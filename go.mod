@@ -5,8 +5,8 @@ go 1.17
 require (
 	github.com/Knetic/govaluate v3.0.1-0.20171022003610-9aa49832a739+incompatible
 	github.com/golang/protobuf v1.5.2
-	github.com/hxx258456/ccgo v0.0.0-20220815135058-aea1800993ba
-	github.com/hxx258456/fabric-protos-go-gm v0.0.0-20220815140728-0b979efa79f4
+	github.com/hxx258456/ccgo v0.0.1
+	github.com/hxx258456/fabric-protos-go-gm v0.0.1
 	github.com/onsi/gomega v1.18.1
 )
 
